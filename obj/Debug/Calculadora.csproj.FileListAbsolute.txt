@@ -1,0 +1,6 @@
+C:\lp_dir\VisualStudio\C#\UC-10\Calculadora-Teste\Calculadora\bin\Debug\Calculadora.dll
+C:\lp_dir\VisualStudio\C#\UC-10\Calculadora-Teste\Calculadora\bin\Debug\Calculadora.pdb
+C:\lp_dir\VisualStudio\C#\UC-10\Calculadora-Teste\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\lp_dir\VisualStudio\C#\UC-10\Calculadora-Teste\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\lp_dir\VisualStudio\C#\UC-10\Calculadora-Teste\Calculadora\obj\Debug\Calculadora.dll
+C:\lp_dir\VisualStudio\C#\UC-10\Calculadora-Teste\Calculadora\obj\Debug\Calculadora.pdb
